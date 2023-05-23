@@ -32,7 +32,7 @@ pytgcalls
 pyYAML
 removebg==0.4
 reportlab
-requests==2.24.0
+requests==2.31.0
 simplejson
 spamwatch==0.3.0
 speedtest-cli
